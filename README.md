@@ -35,6 +35,23 @@ mvn clean compile
 
 # Running the tests
 
+There are 4 Test Case scenarios for this project.
+
+# Test Case 01:
+
+Test Case for OS dependent System properties
+
+# Test Case 02:
+
+Test Case whether CityInformation File exist or not
+
+# Test Case 03
+
+Testing the Access Authorization Status Code. ( URL Accesstoken authorization Test )
+
+# Test Case 04
+
+Testing the Response Header Media Type. (MIME Type in Response Header)
 
 # Run Instructions
 
@@ -42,7 +59,7 @@ mvn clean install
 
 If you are using MAC / Linux OS then 
 
-cd Root directory of Project interface. ( ex : cd /Users/raja/Documents/WORKSPACE/weatherapp ) Then run below command
+cd (Root directory of Project interface). ( ex : cd /Users/raja/Documents/WORKSPACE/weatherapp ) Then run below command
 
 java -jar -Dapple.awt.UIElement="true" {Root directory of Project Interface}/target/weatherapp-0.0.1-SNAPSHOT.jar -h
 
