@@ -1,0 +1,71 @@
+Archiving File Name : National Capital Territory of Delhi_1273293.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- National Capital Territory of Delhi_1273293.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->National Capital Territory of Delhi_1273293.csv
+Destination File Name-->National Capital Territory of Delhi_1273293_1558155743269.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/National Capital Territory of Delhi_1273293_1558155743269.csv
+National Capital Territory of Delhi_1273293.csv is backed up as National Capital Territory of Delhi_1273293_1558155743269.csv
+National Capital Territory of Delhi_1273293.csv is deleted
+Archiving File Name : Dubai_292223.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- Dubai_292223.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->Dubai_292223.csv
+Destination File Name-->Dubai_292223_1558155743276.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/Dubai_292223_1558155743276.csv
+Dubai_292223.csv is backed up as Dubai_292223_1558155743276.csv
+Dubai_292223.csv is deleted
+Archiving File Name : Washington_4229546.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- Washington_4229546.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->Washington_4229546.csv
+Destination File Name-->Washington_4229546_1558155743281.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/Washington_4229546_1558155743281.csv
+Washington_4229546.csv is backed up as Washington_4229546_1558155743281.csv
+Washington_4229546.csv is deleted
+Archiving File Name : Delhi_1273294.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- Delhi_1273294.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->Delhi_1273294.csv
+Destination File Name-->Delhi_1273294_1558155743289.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/Delhi_1273294_1558155743289.csv
+Delhi_1273294.csv is backed up as Delhi_1273294_1558155743289.csv
+Delhi_1273294.csv is deleted
+Archiving File Name : Dublin_2964574.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- Dublin_2964574.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->Dublin_2964574.csv
+Destination File Name-->Dublin_2964574_1558155743295.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/Dublin_2964574_1558155743295.csv
+Dublin_2964574.csv is backed up as Dublin_2964574_1558155743295.csv
+Dublin_2964574.csv is deleted
+File Name which has City information : /Users/raja/Documents/WORKSPACE/weatherapp/City_File/CITY_INFO.csv  Csv split by ,
+FileNotFoundException error msg /Users/raja/Documents/WORKSPACE/weatherapp/City_File/CITY_INFO.csv (No such file or directory)
+ArrayList length = No of City_ID = : 0
+Archiving Folder Name : /Users/raja/Documents/WORKSPACE/weatherapp/City_File
+Total no of FIles inside Archiving Folder : 0
+Archiving Folder Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output
+Total no of FIles inside Archiving Folder : 1
+Archiving File Name : InterfaceRun.log
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- InterfaceRun.log
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->InterfaceRun.log
+Destination File Name-->InterfaceRun_1558156315195.log
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/InterfaceRun_1558156315195.log
