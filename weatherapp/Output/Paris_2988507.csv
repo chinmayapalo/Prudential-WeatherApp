@@ -1,4 +1,2 @@
 City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Paris,2988507,500,Rain,light rain,10d
-Paris,2988507,300,Drizzle,light intensity drizzle,09d
-Paris,2988507,701,Mist,mist,50d
+Paris,2988507,804,Clouds,overcast clouds,04d

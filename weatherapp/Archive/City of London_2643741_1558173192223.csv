@@ -1,0 +1,4 @@
+City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
+City of London,2643741,701,Mist,mist,50d
+City of London,2643741,721,Haze,haze,50d
+City of London,2643741,500,Rain,light rain,10d

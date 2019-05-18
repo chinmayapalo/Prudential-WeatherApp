@@ -1,3 +1,58 @@
+Archiving File Name : National Capital Territory of Delhi_1273293.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- National Capital Territory of Delhi_1273293.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->National Capital Territory of Delhi_1273293.csv
+Destination File Name-->National Capital Territory of Delhi_1273293_1558175289864.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/National Capital Territory of Delhi_1273293_1558175289864.csv
+National Capital Territory of Delhi_1273293.csv is backed up as National Capital Territory of Delhi_1273293_1558175289864.csv
+National Capital Territory of Delhi_1273293.csv is deleted
+Archiving File Name : Dubai_292223.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- Dubai_292223.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->Dubai_292223.csv
+Destination File Name-->Dubai_292223_1558175289871.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/Dubai_292223_1558175289871.csv
+Dubai_292223.csv is backed up as Dubai_292223_1558175289871.csv
+Dubai_292223.csv is deleted
+Archiving File Name : Washington_4229546.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- Washington_4229546.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->Washington_4229546.csv
+Destination File Name-->Washington_4229546_1558175289877.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/Washington_4229546_1558175289877.csv
+Washington_4229546.csv is backed up as Washington_4229546_1558175289877.csv
+Washington_4229546.csv is deleted
+Archiving File Name : Delhi_1273294.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- Delhi_1273294.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->Delhi_1273294.csv
+Destination File Name-->Delhi_1273294_1558175289882.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/Delhi_1273294_1558175289882.csv
+Delhi_1273294.csv is backed up as Delhi_1273294_1558175289882.csv
+Delhi_1273294.csv is deleted
+Archiving File Name : Dublin_2964574.csv
+Source File Path is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+SOurce File Name is-- Dublin_2964574.csv
+ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Output
+destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
+File Name-->Dublin_2964574.csv
+Destination File Name-->Dublin_2964574_1558175289888.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/Dublin_2964574_1558175289888.csv
+Dublin_2964574.csv is backed up as Dublin_2964574_1558175289888.csv
+Dublin_2964574.csv is deleted
 File Name which has City information : /Users/raja/Documents/WORKSPACE/weatherapp/City_File/CITY_INFO.csv  Csv split by ,
 CITY_ID = 2643741 , CITY_NAME=City of London
 CITY_ID = 2988507 , CITY_NAME=Paris
@@ -46,68 +101,62 @@ ArrayList length = No of City_ID = : 21
 Batch city_id values: 2964574,1283150,2643741,4229546,1283076,292223,711987,480041,545633,6539761,509820,517183,1273293,5128581,2950159,502069,547560,1273294,1275339,498349,
 Batch city_id values: 2964574,1283150,2643741,4229546,1283076,292223,711987,480041,545633,6539761,509820,517183,1273293,5128581,2950159,502069,547560,1273294,1275339,498349
 http://api.openweathermap.org/data/2.5/group?id=2964574,1283150,2643741,4229546,1283076,292223,711987,480041,545633,6539761,509820,517183,1273293,5128581,2950159,502069,547560,1273294,1275339,498349&units=metric&APPID=aa69195559bd4f88d79f9aadeb77a8f6
-Response --{"cnt":20,"list":[{"coord":{"lon":-6.27,"lat":53.34},"sys":{"type":1,"id":1565,"message":0.0062,"country":"IE","sunrise":1558153275,"sunset":1558210918},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":8.34,"pressure":1009,"humidity":87,"temp_min":7,"temp_max":10},"visibility":10000,"wind":{"speed":3.6,"deg":10},"clouds":{"all":0},"dt":1558156316,"id":2964574,"name":"Dublin"},{"coord":{"lon":84.37,"lat":28.2},"sys":{"type":0,"id":0,"message":0.005,"country":"NP","sunrise":1558135880,"sunset":1558184805},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":5.25,"pressure":1011.75,"humidity":47,"temp_min":5.25,"temp_max":5.25,"sea_level":1011.75,"grnd_level":602.08},"wind":{"speed":6.14,"deg":203.848},"clouds":{"all":9},"dt":1558156316,"id":1283150,"name":"Lamjung"},{"coord":{"lon":-0.09,"lat":51.51},"sys":{"type":1,"id":1414,"message":0.0086,"country":"GB","sunrise":1558152289,"sunset":1558208938},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"},{"id":701,"main":"Mist","description":"mist","icon":"50d"}],"main":{"temp":9.65,"pressure":1006,"humidity":87,"temp_min":7.78,"temp_max":11.11},"visibility":5000,"wind":{"speed":1},"clouds":{"all":75},"dt":1558156316,"id":2643741,"name":"City of London"},{"coord":{"lon":-82.74,"lat":33.74},"sys":{"type":1,"id":4414,"message":0.0049,"country":"US","sunrise":1558175297,"sunset":1558225603},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"main":{"temp":20.44,"pressure":1016,"humidity":94,"temp_min":18.33,"temp_max":23.89},"visibility":16093,"wind":{"speed":1.99,"deg":296.087},"clouds":{"all":1},"dt":1558156316,"id":4229546,"name":"Washington"},{"coord":{"lon":84.02,"lat":28.67},"sys":{"type":0,"id":0,"message":0.0043,"country":"NP","sunrise":1558135910,"sunset":1558184942},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":5.96,"pressure":1013.93,"humidity":27,"temp_min":5.96,"temp_max":5.96,"sea_level":1013.93,"grnd_level":604.05},"wind":{"speed":5.4,"deg":207.13},"clouds":{"all":1},"dt":1558156316,"id":1283076,"name":"Manangbhot"},{"coord":{"lon":55.3,"lat":25.26},"sys":{"type":1,"id":7526,"message":0.0048,"country":"AE","sunrise":1558143179,"sunset":1558191459},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":30.47,"pressure":1007,"humidity":49,"temp_min":28,"temp_max":32},"visibility":8000,"wind":{"speed":7.7,"deg":110},"clouds":{"all":5},"dt":1558156316,"id":292223,"name":"Dubai"},{"coord":{"lon":34.37,"lat":44.65},"sys":{"type":0,"id":0,"message":0.0053,"country":"UA","sunrise":1558145519,"sunset":1558199166},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"main":{"temp":23.66,"pressure":1006.01,"humidity":65,"temp_min":23.66,"temp_max":23.66,"sea_level":1006.01,"grnd_level":981.13},"wind":{"speed":5.1,"deg":70.386},"clouds":{"all":54},"dt":1558156316,"id":711987,"name":"Bobyanskoye"},{"coord":{"lon":35,"lat":57.01},"sys":{"type":0,"id":0,"message":0.0049,"country":"RU","sunrise":1558142206,"sunset":1558202178},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":14.25,"pressure":1021.39,"humidity":56,"temp_min":14.25,"temp_max":14.25,"sea_level":1021.39,"grnd_level":1001.39},"wind":{"speed":2.01,"deg":354.213},"clouds":{"all":0},"dt":1558156316,"id":480041,"name":"Tverskaya Oblast’"},{"coord":{"lon":30.6,"lat":64.58},"sys":{"type":0,"id":0,"message":0.007,"country":"RU","sunrise":1558139352,"sunset":1558207143},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"main":{"temp":13.56,"pressure":1023.15,"humidity":52,"temp_min":13.56,"temp_max":13.56,"sea_level":1023.15,"grnd_level":1005.89},"wind":{"speed":2.94,"deg":321.209},"clouds":{"all":67},"dt":1558156317,"id":545633,"name":"Kondoka"},{"coord":{"lon":12.64,"lat":41.76},"sys":{"type":1,"id":6792,"message":0.0072,"country":"IT","sunrise":1558151240,"sunset":1558203877},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"main":{"temp":15.12,"pressure":1003,"humidity":93,"temp_min":12.22,"temp_max":17.22},"visibility":9000,"wind":{"speed":5.7,"deg":170},"clouds":{"all":40},"dt":1558156317,"id":6539761,"name":"Marino"},{"coord":{"lon":34.35,"lat":61.78},"sys":{"type":1,"id":8929,"message":0.0044,"country":"RU","sunrise":1558140254,"sunset":1558204442},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"main":{"temp":11,"pressure":1021,"humidity":57,"temp_min":11,"temp_max":11},"visibility":10000,"wind":{"speed":3,"deg":240},"clouds":{"all":39},"dt":1558156317,"id":509820,"name":"Petrozavodsk"},{"coord":{"lon":37.37,"lat":56.87},"sys":{"type":0,"id":0,"message":0.0053,"country":"RU","sunrise":1558141688,"sunset":1558201558},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":14.96,"pressure":1020.97,"humidity":47,"temp_min":14.96,"temp_max":14.96,"sea_level":1020.97,"grnd_level":1004.69},"wind":{"speed":1.74,"deg":32.638},"clouds":{"all":0},"dt":1558156317,"id":517183,"name":"Novyye Berëzki"},{"coord":{"lon":77.25,"lat":28.75},"sys":{"type":1,"id":9161,"message":0.0045,"country":"IN","sunrise":1558137525,"sunset":1558186577},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"}],"main":{"temp":28.94,"pressure":1009,"humidity":74,"temp_min":26,"temp_max":31.67},"visibility":2500,"wind":{"speed":5.1,"deg":310},"clouds":{"all":40},"dt":1558156317,"id":1273293,"name":"National Capital Territory of Delhi"},{"coord":{"lon":-74.01,"lat":40.71},"sys":{"type":1,"id":4610,"message":0.0131,"country":"US","sunrise":1558172195,"sunset":1558224515},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04n"}],"main":{"temp":17.36,"pressure":1011,"humidity":72,"temp_min":13.89,"temp_max":19.44},"visibility":16093,"wind":{"speed":4.18,"deg":327.894},"clouds":{"all":75},"dt":1558156317,"id":5128581,"name":"New York"},{"coord":{"lon":13.41,"lat":52.52},"sys":{"type":1,"id":1275,"message":0.0065,"country":"DE","sunrise":1558148785,"sunset":1558205961},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":11.82,"pressure":1009,"humidity":87,"temp_min":9.44,"temp_max":15},"visibility":10000,"wind":{"speed":1.5,"deg":90},"clouds":{"all":0},"dt":1558156317,"id":2950159,"name":"Berlin"},{"coord":{"lon":36.57,"lat":56.45},"sys":{"type":0,"id":0,"message":0.0041,"country":"RU","sunrise":1558142028,"sunset":1558201602},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":15.56,"pressure":1020.93,"humidity":52,"temp_min":15.56,"temp_max":15.56,"sea_level":1020.93,"grnd_level":1002.83},"wind":{"speed":1.49,"deg":11.476},"clouds":{"all":0},"dt":1558156317,"id":502069,"name":"Reshetnikovo"},{"coord":{"lon":37.52,"lat":55.36},"sys":{"type":1,"id":9029,"message":0.005,"country":"RU","sunrise":1558142165,"sunset":1558201008},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":14.69,"pressure":1020,"humidity":58,"temp_min":14,"temp_max":16.11},"visibility":10000,"wind":{"speed":2,"deg":310},"clouds":{"all":0},"dt":1558156318,"id":547560,"name":"Klimovsk"},{"coord":{"lon":77.22,"lat":28.67},"sys":{"type":1,"id":9161,"message":0.0045,"country":"IN","sunrise":1558137542,"sunset":1558186575},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"}],"main":{"temp":28.91,"pressure":1009,"humidity":74,"temp_min":26,"temp_max":31.67},"visibility":2500,"wind":{"speed":5.1,"deg":310},"clouds":{"all":40},"dt":1558156318,"id":1273294,"name":"Delhi"},{"coord":{"lon":72.85,"lat":19.01},"sys":{"type":1,"id":9052,"message":0.0048,"country":"IN","sunrise":1558139605,"sunset":1558186609},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"}],"main":{"temp":32.5,"pressure":1011,"humidity":63,"temp_min":32,"temp_max":33},"visibility":3000,"wind":{"speed":1.5,"deg":10},"clouds":{"all":20},"dt":1558156318,"id":1275339,"name":"Mumbai"},{"coord":{"lon":37.37,"lat":56.87},"sys":{"type":0,"id":0,"message":0.0053,"country":"RU","sunrise":1558141688,"sunset":1558201558},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":14.96,"pressure":1020.97,"humidity":47,"temp_min":14.96,"temp_max":14.96,"sea_level":1020.97,"grnd_level":1004.69},"wind":{"speed":1.74,"deg":32.638},"clouds":{"all":0},"dt":1558156318,"id":498349,"name":"Savëlovo"}]}
+Response --{"cnt":20,"list":[{"coord":{"lon":-6.27,"lat":53.34},"sys":{"type":1,"id":1565,"message":0.0054,"country":"IE","sunrise":1558153275,"sunset":1558210918},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"main":{"temp":12,"pressure":1009,"humidity":76,"temp_min":10.56,"temp_max":13.33},"visibility":10000,"wind":{"speed":5.7,"deg":300},"clouds":{"all":75},"dt":1558175290,"id":2964574,"name":"Dublin"},{"coord":{"lon":84.37,"lat":28.2},"sys":{"type":0,"id":0,"message":0.0044,"country":"NP","sunrise":1558135880,"sunset":1558184805},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"main":{"temp":2.75,"pressure":1010.33,"humidity":76,"temp_min":2.75,"temp_max":2.75,"sea_level":1010.33,"grnd_level":601.41},"wind":{"speed":5.87,"deg":192.821},"clouds":{"all":85},"dt":1558175290,"id":1283150,"name":"Lamjung"},{"coord":{"lon":-0.09,"lat":51.51},"sys":{"type":1,"id":1414,"message":0.0091,"country":"GB","sunrise":1558152289,"sunset":1558208938},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"main":{"temp":14.55,"pressure":1006,"humidity":59,"temp_min":12.22,"temp_max":16.67},"visibility":10000,"wind":{"speed":2.1,"deg":120},"clouds":{"all":51},"dt":1558175290,"id":2643741,"name":"City of London"},{"coord":{"lon":-82.74,"lat":33.74},"sys":{"type":1,"id":4414,"message":0.0048,"country":"US","sunrise":1558175297,"sunset":1558225603},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":17.88,"pressure":1016,"humidity":93,"temp_min":17.22,"temp_max":19},"visibility":11265,"wind":{"speed":1.39,"deg":295.568},"clouds":{"all":1},"dt":1558175290,"id":4229546,"name":"Washington"},{"coord":{"lon":84.02,"lat":28.67},"sys":{"type":0,"id":0,"message":0.0044,"country":"NP","sunrise":1558135910,"sunset":1558184942},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"main":{"temp":5.65,"pressure":1012.3,"humidity":37,"temp_min":5.65,"temp_max":5.65,"sea_level":1012.3,"grnd_level":603.46},"wind":{"speed":5.28,"deg":209.785},"clouds":{"all":13},"dt":1558175290,"id":1283076,"name":"Manangbhot"},{"coord":{"lon":55.3,"lat":25.26},"sys":{"type":1,"id":7537,"message":0.0059,"country":"AE","sunrise":1558143179,"sunset":1558191459},"weather":[{"id":761,"main":"Dust","description":"dust","icon":"50d"}],"main":{"temp":35.76,"pressure":1006,"humidity":49,"temp_min":34,"temp_max":39},"visibility":8000,"wind":{"speed":8.2,"deg":330},"clouds":{"all":91},"dt":1558175290,"id":292223,"name":"Dubai"},{"coord":{"lon":34.37,"lat":44.65},"sys":{"type":0,"id":0,"message":0.005,"country":"UA","sunrise":1558145519,"sunset":1558199166},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"main":{"temp":27.15,"pressure":1006.16,"humidity":53,"temp_min":27.15,"temp_max":27.15,"sea_level":1006.16,"grnd_level":980.91},"wind":{"speed":4.42,"deg":53.825},"clouds":{"all":63},"dt":1558175290,"id":711987,"name":"Bobyanskoye"},{"coord":{"lon":35,"lat":57.01},"sys":{"type":0,"id":0,"message":0.0044,"country":"RU","sunrise":1558142206,"sunset":1558202178},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":18.35,"pressure":1020.05,"humidity":44,"temp_min":18.35,"temp_max":18.35,"sea_level":1020.05,"grnd_level":1000.18},"wind":{"speed":2.56,"deg":347.326},"clouds":{"all":0},"dt":1558175290,"id":480041,"name":"Tverskaya Oblast’"},{"coord":{"lon":30.6,"lat":64.58},"sys":{"type":0,"id":0,"message":0.0048,"country":"RU","sunrise":1558139352,"sunset":1558207143},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"main":{"temp":17.15,"pressure":1022.1,"humidity":43,"temp_min":17.15,"temp_max":17.15,"sea_level":1022.1,"grnd_level":1004.88},"wind":{"speed":3.24,"deg":342.196},"clouds":{"all":43},"dt":1558175290,"id":545633,"name":"Kondoka"},{"coord":{"lon":12.64,"lat":41.76},"sys":{"type":1,"id":6792,"message":0.0099,"country":"IT","sunrise":1558151240,"sunset":1558203877},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],"main":{"temp":16.11,"pressure":1004,"humidity":82,"temp_min":12.78,"temp_max":18.33},"visibility":8000,"wind":{"speed":6.2,"deg":190},"clouds":{"all":40},"dt":1558175290,"id":6539761,"name":"Marino"},{"coord":{"lon":34.35,"lat":61.78},"sys":{"type":1,"id":8929,"message":0.0046,"country":"RU","sunrise":1558140254,"sunset":1558204442},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":17,"pressure":1020,"humidity":36,"temp_min":17,"temp_max":17},"visibility":10000,"wind":{"speed":7,"deg":360},"clouds":{"all":0},"dt":1558175290,"id":509820,"name":"Petrozavodsk"},{"coord":{"lon":37.37,"lat":56.87},"sys":{"type":0,"id":0,"message":0.007,"country":"RU","sunrise":1558141688,"sunset":1558201558},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":18.45,"pressure":1019.68,"humidity":40,"temp_min":18.45,"temp_max":18.45,"sea_level":1019.68,"grnd_level":1003.46},"wind":{"speed":2.05,"deg":355.737},"clouds":{"all":0},"dt":1558175290,"id":517183,"name":"Novyye Berëzki"},{"coord":{"lon":77.25,"lat":28.75},"sys":{"type":1,"id":9161,"message":0.0039,"country":"IN","sunrise":1558137525,"sunset":1558186577},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"}],"main":{"temp":32.29,"pressure":1006,"humidity":43,"temp_min":31,"temp_max":33},"visibility":3500,"wind":{"speed":1.5,"deg":250},"clouds":{"all":40},"dt":1558175290,"id":1273293,"name":"National Capital Territory of Delhi"},{"coord":{"lon":-74.01,"lat":40.71},"sys":{"type":1,"id":4610,"message":0.0107,"country":"US","sunrise":1558172195,"sunset":1558224515},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":12.63,"pressure":1014,"humidity":67,"temp_min":8.89,"temp_max":15.56},"visibility":16093,"wind":{"speed":2.1,"deg":60},"clouds":{"all":1},"dt":1558175290,"id":5128581,"name":"New York"},{"coord":{"lon":13.41,"lat":52.52},"sys":{"type":1,"id":1275,"message":0.0059,"country":"DE","sunrise":1558148785,"sunset":1558205961},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"main":{"temp":21.69,"pressure":1007,"humidity":46,"temp_min":19.44,"temp_max":23.33},"visibility":10000,"wind":{"speed":6.7,"deg":80},"clouds":{"all":20},"dt":1558175290,"id":2950159,"name":"Berlin"},{"coord":{"lon":36.57,"lat":56.45},"sys":{"type":0,"id":0,"message":0.0042,"country":"RU","sunrise":1558142028,"sunset":1558201602},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":19.45,"pressure":1019.65,"humidity":39,"temp_min":19.45,"temp_max":19.45,"sea_level":1019.65,"grnd_level":1001.6},"wind":{"speed":1.81,"deg":354.223},"clouds":{"all":0},"dt":1558175290,"id":502069,"name":"Reshetnikovo"},{"coord":{"lon":37.52,"lat":55.36},"sys":{"type":1,"id":9029,"message":0.0056,"country":"RU","sunrise":1558142165,"sunset":1558201008},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":19.47,"pressure":1019,"humidity":40,"temp_min":18.89,"temp_max":20},"visibility":10000,"wind":{"speed":3,"deg":10},"clouds":{"all":0},"dt":1558175290,"id":547560,"name":"Klimovsk"},{"coord":{"lon":77.22,"lat":28.67},"sys":{"type":1,"id":9161,"message":0.0053,"country":"IN","sunrise":1558137542,"sunset":1558186575},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50d"}],"main":{"temp":32.28,"pressure":1006,"humidity":43,"temp_min":31,"temp_max":33},"visibility":3500,"wind":{"speed":1.5,"deg":250},"clouds":{"all":40},"dt":1558175290,"id":1273294,"name":"Delhi"},{"coord":{"lon":72.85,"lat":19.01},"sys":{"type":1,"id":9052,"message":0.0054,"country":"IN","sunrise":1558139605,"sunset":1558186609},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02d"}],"main":{"temp":33.5,"pressure":1007,"humidity":66,"temp_min":33,"temp_max":34},"visibility":6000,"wind":{"speed":4.6,"deg":290},"clouds":{"all":20},"dt":1558175290,"id":1275339,"name":"Mumbai"},{"coord":{"lon":37.37,"lat":56.87},"sys":{"type":0,"id":0,"message":0.007,"country":"RU","sunrise":1558141688,"sunset":1558201558},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"main":{"temp":18.45,"pressure":1019.68,"humidity":40,"temp_min":18.45,"temp_max":18.45,"sea_level":1019.68,"grnd_level":1003.46},"wind":{"speed":2.05,"deg":355.737},"clouds":{"all":0},"dt":1558175290,"id":498349,"name":"Savëlovo"}]}
  Total Country Response from Weather Service : 20
  No Of country Response in List of array : 20
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Dublin_2964574.csv
  List of Weather array : 1
- Weather Report : 800 Clear clear sky 01d
- String Buffer value : Dublin,2964574,800,Clear,clear sky,01d
+ Weather Report : 803 Clouds broken clouds 04d
+ String Buffer value : Dublin,2964574,803,Clouds,broken clouds,04d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Dublin_2964574.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Dublin,2964574,800,Clear,clear sky,01d
+Dublin,2964574,803,Clouds,broken clouds,04d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Lamjung_1283150.csv
  List of Weather array : 1
- Weather Report : 800 Clear clear sky 01d
- String Buffer value : Lamjung,1283150,800,Clear,clear sky,01d
+ Weather Report : 804 Clouds overcast clouds 04d
+ String Buffer value : Lamjung,1283150,804,Clouds,overcast clouds,04d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Lamjung_1283150.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Lamjung,1283150,800,Clear,clear sky,01d
+Lamjung,1283150,804,Clouds,overcast clouds,04d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/City of London_2643741.csv
- List of Weather array : 2
- Weather Report : 721 Haze haze 50d
- String Buffer value : City of London,2643741,721,Haze,haze,50d
-
- List of Weather array : 2
- Weather Report : 701 Mist mist 50d
- String Buffer value : City of London,2643741,721,Haze,haze,50d
-City of London,2643741,701,Mist,mist,50d
+ List of Weather array : 1
+ Weather Report : 803 Clouds broken clouds 04d
+ String Buffer value : City of London,2643741,803,Clouds,broken clouds,04d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/City of London_2643741.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-City of London,2643741,721,Haze,haze,50d
-City of London,2643741,701,Mist,mist,50d
+City of London,2643741,803,Clouds,broken clouds,04d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Washington_4229546.csv
  List of Weather array : 1
- Weather Report : 800 Clear clear sky 01n
- String Buffer value : Washington,4229546,800,Clear,clear sky,01n
+ Weather Report : 800 Clear clear sky 01d
+ String Buffer value : Washington,4229546,800,Clear,clear sky,01d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Washington_4229546.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Washington,4229546,800,Clear,clear sky,01n
+Washington,4229546,800,Clear,clear sky,01d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Manangbhot_1283076.csv
  List of Weather array : 1
- Weather Report : 800 Clear clear sky 01d
- String Buffer value : Manangbhot,1283076,800,Clear,clear sky,01d
+ Weather Report : 801 Clouds few clouds 02d
+ String Buffer value : Manangbhot,1283076,801,Clouds,few clouds,02d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Manangbhot_1283076.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Manangbhot,1283076,800,Clear,clear sky,01d
+Manangbhot,1283076,801,Clouds,few clouds,02d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Dubai_292223.csv
  List of Weather array : 1
- Weather Report : 800 Clear clear sky 01d
- String Buffer value : Dubai,292223,800,Clear,clear sky,01d
+ Weather Report : 761 Dust dust 50d
+ String Buffer value : Dubai,292223,761,Dust,dust,50d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Dubai_292223.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Dubai,292223,800,Clear,clear sky,01d
+Dubai,292223,761,Dust,dust,50d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Bobyanskoye_711987.csv
  List of Weather array : 1
@@ -129,12 +178,12 @@ Tverskaya Oblast’,480041,800,Clear,clear sky,01d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Kondoka_545633.csv
  List of Weather array : 1
- Weather Report : 803 Clouds broken clouds 04d
- String Buffer value : Kondoka,545633,803,Clouds,broken clouds,04d
+ Weather Report : 802 Clouds scattered clouds 03d
+ String Buffer value : Kondoka,545633,802,Clouds,scattered clouds,03d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Kondoka_545633.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Kondoka,545633,803,Clouds,broken clouds,04d
+Kondoka,545633,802,Clouds,scattered clouds,03d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Marino_6539761.csv
  List of Weather array : 1
@@ -147,12 +196,12 @@ Marino,6539761,500,Rain,light rain,10d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Petrozavodsk_509820.csv
  List of Weather array : 1
- Weather Report : 802 Clouds scattered clouds 03d
- String Buffer value : Petrozavodsk,509820,802,Clouds,scattered clouds,03d
+ Weather Report : 800 Clear clear sky 01d
+ String Buffer value : Petrozavodsk,509820,800,Clear,clear sky,01d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Petrozavodsk_509820.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Petrozavodsk,509820,802,Clouds,scattered clouds,03d
+Petrozavodsk,509820,800,Clear,clear sky,01d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Novyye Berëzki_517183.csv
  List of Weather array : 1
@@ -174,21 +223,21 @@ National Capital Territory of Delhi,1273293,721,Haze,haze,50d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/New York_5128581.csv
  List of Weather array : 1
- Weather Report : 803 Clouds broken clouds 04n
- String Buffer value : New York,5128581,803,Clouds,broken clouds,04n
+ Weather Report : 800 Clear clear sky 01d
+ String Buffer value : New York,5128581,800,Clear,clear sky,01d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/New York_5128581.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-New York,5128581,803,Clouds,broken clouds,04n
+New York,5128581,800,Clear,clear sky,01d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Berlin_2950159.csv
  List of Weather array : 1
- Weather Report : 800 Clear clear sky 01d
- String Buffer value : Berlin,2950159,800,Clear,clear sky,01d
+ Weather Report : 801 Clouds few clouds 02d
+ String Buffer value : Berlin,2950159,801,Clouds,few clouds,02d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Berlin_2950159.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Berlin,2950159,800,Clear,clear sky,01d
+Berlin,2950159,801,Clouds,few clouds,02d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Reshetnikovo_502069.csv
  List of Weather array : 1
@@ -219,12 +268,12 @@ Delhi,1273294,721,Haze,haze,50d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Mumbai_1275339.csv
  List of Weather array : 1
- Weather Report : 721 Haze haze 50d
- String Buffer value : Mumbai,1275339,721,Haze,haze,50d
+ Weather Report : 801 Clouds few clouds 02d
+ String Buffer value : Mumbai,1275339,801,Clouds,few clouds,02d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Mumbai_1275339.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Mumbai,1275339,721,Haze,haze,50d
+Mumbai,1275339,801,Clouds,few clouds,02d
 
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Savëlovo_498349.csv
  List of Weather array : 1
@@ -238,30 +287,17 @@ Savëlovo,498349,800,Clear,clear sky,01d
 Batch city_id values: 2988507,
 Batch city_id values: 2988507
 http://api.openweathermap.org/data/2.5/group?id=2988507&units=metric&APPID=aa69195559bd4f88d79f9aadeb77a8f6
-Response --{"cnt":1,"list":[{"coord":{"lon":2.35,"lat":48.85},"sys":{"type":1,"id":6550,"message":0.007,"country":"FR","sunrise":1558152342,"sunset":1558207714},"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"},{"id":300,"main":"Drizzle","description":"light intensity drizzle","icon":"09d"},{"id":701,"main":"Mist","description":"mist","icon":"50d"}],"main":{"temp":11.48,"pressure":1004,"humidity":100,"temp_min":10,"temp_max":13},"visibility":10000,"wind":{"speed":1.5,"deg":140},"clouds":{"all":75},"dt":1558156318,"id":2988507,"name":"Paris"}]}
+Response --{"cnt":1,"list":[{"coord":{"lon":2.35,"lat":48.85},"sys":{"type":1,"id":6550,"message":0.006,"country":"FR","sunrise":1558152342,"sunset":1558207714},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"main":{"temp":14.99,"pressure":1005,"humidity":82,"temp_min":13,"temp_max":16.67},"visibility":10000,"wind":{"speed":2.6,"deg":150},"clouds":{"all":90},"dt":1558175291,"id":2988507,"name":"Paris"}]}
  Total Country Response from Weather Service : 1
  No Of country Response in List of array : 1
 Weather File Name : /Users/raja/Documents/WORKSPACE/weatherapp/Output/Paris_2988507.csv
- List of Weather array : 3
- Weather Report : 500 Rain light rain 10d
- String Buffer value : Paris,2988507,500,Rain,light rain,10d
-
- List of Weather array : 3
- Weather Report : 300 Drizzle light intensity drizzle 09d
- String Buffer value : Paris,2988507,500,Rain,light rain,10d
-Paris,2988507,300,Drizzle,light intensity drizzle,09d
-
- List of Weather array : 3
- Weather Report : 701 Mist mist 50d
- String Buffer value : Paris,2988507,500,Rain,light rain,10d
-Paris,2988507,300,Drizzle,light intensity drizzle,09d
-Paris,2988507,701,Mist,mist,50d
+ List of Weather array : 1
+ Weather Report : 804 Clouds overcast clouds 04d
+ String Buffer value : Paris,2988507,804,Clouds,overcast clouds,04d
 
 Weather File Path --/Users/raja/Documents/WORKSPACE/weatherapp/Output/Paris_2988507.csv
 Weather File Data --City_Name,City_Id,Weather_id,Weather_main,Weather_desc,Weather_icon
-Paris,2988507,500,Rain,light rain,10d
-Paris,2988507,300,Drizzle,light intensity drizzle,09d
-Paris,2988507,701,Mist,mist,50d
+Paris,2988507,804,Clouds,overcast clouds,04d
 
 Archiving Folder Name : /Users/raja/Documents/WORKSPACE/weatherapp/City_File
 Total no of FIles inside Archiving Folder : 1
@@ -272,7 +308,7 @@ ArchiveFolderName is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
 sourceFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/City_File
 destinationFolder Name is-- /Users/raja/Documents/WORKSPACE/weatherapp/Archive
 File Name-->CITY_INFO.csv
-Destination File Name-->CITY_INFO_1558156318316.csv
-/Users/raja/Documents/WORKSPACE/weatherapp/Archive/CITY_INFO_1558156318316.csv
-CITY_INFO.csv is backed up as CITY_INFO_1558156318316.csv
+Destination File Name-->CITY_INFO_1558175291613.csv
+/Users/raja/Documents/WORKSPACE/weatherapp/Archive/CITY_INFO_1558175291613.csv
+CITY_INFO.csv is backed up as CITY_INFO_1558175291613.csv
 CITY_INFO.csv is deleted
