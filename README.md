@@ -4,6 +4,7 @@ This project based on a weather service that will retrieve daily information for
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 # Prerequisites
 JDK 8 
+
 Maven 3.5.2
 
 If you are using Windows OS then set environment variable 
