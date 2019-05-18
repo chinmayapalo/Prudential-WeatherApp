@@ -8,3 +8,9 @@ Maven 3.5.2
 
 If you are using Windows OS then set environment variable 
 PROPERTY_NAME = Root directory of Project interface. (ex : PROPERTY_NAME : D:\weatherapp )
+
+# Installing
+
+DOwnload & Install JDK 8 . Configure the JAVA_HOME environment variable.
+
+Visit Maven official website, download the Maven zip file, for example : apache-maven-3.5.2-bin.zip.
