@@ -19,3 +19,11 @@ Visit Maven official website, download the Maven zip file, for example : apache-
 Unzip it to a folder. In this article, we are using c:\opt\apache-maven-3.5.2
 
 Add a MAVEN_HOME system variables, and point it to the Maven folder.
+
+Test the installation :
+
+java -version
+
+mvn -version
+
+echo $PROPERTY_NAME
