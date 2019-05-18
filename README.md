@@ -48,5 +48,16 @@ java -jar -Dapple.awt.UIElement="true" {Root directory of Project Interface}/tar
 
 (ex : java -jar -Dapple.awt.UIElement="true" /Users/raja/Documents/WORKSPACE/weatherapp/target/weatherapp-0.0.1-SNAPSHOT.jar -h)
 
+# Built With
 
+Maven - Dependency Management
 
+Junit - Unit Test
+
+# Versioning
+
+We use GIT for versioning. 
+
+# Authors
+
+Chinmaya Palo
