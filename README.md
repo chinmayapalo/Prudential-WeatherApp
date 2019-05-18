@@ -74,8 +74,6 @@ mvn clean test.
 
 mvn clean install
 
-If you are using MAC / Linux OS then 
-
 cd (Root directory of Project interface). ( ex : cd /Users/raja/Documents/WORKSPACE/weatherapp ) Then run below command
 
 java -jar -Dapple.awt.UIElement="true" {Root directory of Project Interface}/target/weatherapp-0.0.1-SNAPSHOT.jar -h
