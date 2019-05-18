@@ -14,3 +14,7 @@ PROPERTY_NAME = Root directory of Project interface. (ex : PROPERTY_NAME : D:\we
 DOwnload & Install JDK 8 . Configure the JAVA_HOME environment variable.
 
 Visit Maven official website, download the Maven zip file, for example : apache-maven-3.5.2-bin.zip.
+
+Unzip it to a folder. In this article, we are using c:\opt\apache-maven-3.5.2
+
+Add a MAVEN_HOME system variables, and point it to the Maven folder.
