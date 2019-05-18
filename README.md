@@ -7,8 +7,13 @@ JDK 8
 
 Maven 3.5.2
 
+
 If you are using Windows OS then set environment variable 
 PROPERTY_NAME = Root directory of Project interface. (ex : PROPERTY_NAME : D:\weatherapp )
+
+We are configuring PROPERTY_NAME variable into a java property for accessing different configuration file path during run time.
+
+For MAC / Linux OS user No need to set any environment variable. 
 
 # Installing
 
@@ -31,27 +36,39 @@ echo $PROPERTY_NAME
 
 # Build Instructions
 
-mvn clean compile
+change current directory to Root directory of Project interface where pom.xml file exist. 
+
+cd (Root directory of Project interface). ( ex : cd /Users/raja/Documents/WORKSPACE/weatherapp ) then run below command.
+
+mvn clean compile.
 
 # Running the tests
 
 There are 4 Test Case scenarios for this project.
 
-# Test Case 01:
+ Test Case 01:
 
-Test Case for OS dependent System properties
+Test Case for OS dependent System properties initialization.
 
-# Test Case 02:
+ Test Case 02:
 
-Test Case whether CityInformation File exist or not
+Test Case whether CityInformation File exist or not.
 
-# Test Case 03
+ Test Case 03
 
 Testing the Access Authorization Status Code. ( URL Accesstoken authorization Test )
 
-# Test Case 04
+ Test Case 04
 
-Testing the Response Header Media Type. (MIME Type in Response Header)
+Testing the Response Header Media Type. (MIME Type in Response Header).
+
+For executing test cases use below command.
+
+change current directory to Root directory of Project interface folder where pom.xml file exist. 
+
+cd (Root directory of Project interface). ( ex : cd /Users/raja/Documents/WORKSPACE/weatherapp ) then run below command.
+
+mvn clean test.
 
 # Run Instructions
 
